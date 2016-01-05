@@ -1,5 +1,6 @@
 body {
     background-color: #d0e4fe;
+    font-family: 'Metrophobic', Arial, serif; font-weight: 400;
 }
 
 h1 { font-family: 'Metrophobic', Arial, serif; font-weight: 400; 
@@ -9,7 +10,9 @@ p {
     font-family: "Metrophobic";
     font-size: 20px;
 }
-
+.top {
+	text-align: center;
+}
 
 
 
